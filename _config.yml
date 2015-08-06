@@ -6,7 +6,7 @@
 name: Renato Almeida
 
 # Short bio or description (displayed in the header)
-description: Android Software Developer from Portugal
+description: Android Developer from Portugal
 
 # URL of your avatar or profile pic (you could use your GitHub profile pic)
 avatar: https://avatars0.githubusercontent.com/u/2511837?v=3&s=460
@@ -19,15 +19,15 @@ avatar: https://avatars0.githubusercontent.com/u/2511837?v=3&s=460
 footer-links:
   dribbble:
   email:
-  facebook:
-  flickr:
-  github: barryclark/jekyll-now
-  instagram:
-  linkedin:
+  facebook: renato.m.alm
+  flickr: 
+  github: renato-almeida
+  instagram: renatoalmeida89
+  linkedin: 
   pinterest:
   rss: # just type anything here for a working RSS icon, make sure you set the "url" above!
-  twitter: jekyllrb
-  stackoverflow: # your stackoverflow profile, e.g. "users/50476/bart-kiers"
+  twitter: renatoalmeida89
+  stackoverflow: users/1169659/renna
   youtube: # channel/<your_long_string> or user/<user-name>
   googleplus: # anything in your profile username that comes after plus.google.com/
 
@@ -37,7 +37,7 @@ footer-links:
 disqus:
 
 # Enter your Google Analytics web tracking code (e.g. UA-2110908-2) to activate tracking
-google_analytics:
+google_analytics: UA-66009772-1
 
 # Your website URL (e.g. http://barryclark.github.io or http://www.barryclark.co)
 # Used for Sitemap.xml and your RSS feed
